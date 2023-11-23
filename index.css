@@ -1,0 +1,211 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.desktop1-desktop1 {
+  gap: 10px;
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-navbar {
+  top: 30px;
+  left: 647px;
+  width: 323px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(231, 133, 135, 1);
+}
+.desktop1-rectangle4 {
+  top: 5px;
+  left: 22px;
+  width: 94px;
+  height: 38px;
+  position: absolute;
+  border-radius: 30px;
+}
+.desktop1-buttons {
+  gap: 30px;
+  top: 13px;
+  left: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.desktop1-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text02 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text06 {
+  top: 31px;
+  left: 1260px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-cameradisplay {
+  top: 231px;
+  left: 128px;
+  width: 706px;
+  height: 576px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop1-pngegg1 {
+  top: 187px;
+  left: 250px;
+  width: 180px;
+  height: 180px;
+  position: absolute;
+}
+.desktop1-responsebox {
+  top: 230px;
+  right: 88px;
+  width: 492px;
+  height: 575px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(254, 254, 190, 1);
+}
+.desktop1-text08 {
+  top: 254px;
+  left: 81px;
+  color: rgba(0, 0, 0, 0.75);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-pagetext {
+  top: 117px;
+  left: 128px;
+  width: 1194px;
+  height: 101px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text10 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text12 {
+  top: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-footer {
+  top: 972px;
+  left: 0px;
+  width: 1480px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(214, 222, 241, 1);
+}
+.desktop1-text14 {
+  top: 18px;
+  left: 596px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-logo {
+  top: 31px;
+  left: 31px;
+  width: 85px;
+  height: 53px;
+  position: absolute;
+}

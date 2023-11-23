@@ -1,0 +1,423 @@
+.page1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.page1-contactpage3 {
+  gap: 10px;
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.page1-navbar {
+  top: 36px;
+  left: 581px;
+  width: 347px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(231, 133, 135, 1);
+}
+.page1-rectangle4 {
+  top: 5px;
+  left: 214px;
+  width: 107px;
+  height: 38px;
+  position: absolute;
+  border-radius: 30px;
+}
+.page1-buttons {
+  gap: 30px;
+  top: 13px;
+  left: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.page1-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-text02 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-text06 {
+  top: 31px;
+  left: 1260px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-text08 {
+  top: 117px;
+  left: 173px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-rectangle1 {
+  top: 197px;
+  left: 169px;
+  width: 1190px;
+  height: 575px;
+  position: absolute;
+  border-radius: 24px;
+}
+.page1-text10 {
+  top: 230px;
+  left: 206px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-contactnumber {
+  top: 392px;
+  left: 213px;
+  width: 219px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page1-text15 {
+  top: -26px;
+  color: rgba(0, 0, 0, 1);
+  right: -36px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-text17 {
+  top: 3px;
+  color: rgba(0, 0, 0, 1);
+  right: -40px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-phone {
+  top: 13px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.page1-rectangle5 {
+  top: -37px;
+  left: 45px;
+  width: 69px;
+  height: 67px;
+  position: absolute;
+  border-radius: 15px;
+}
+.page1-icon {
+  top: -24px;
+  left: 58px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.page1-mail {
+  top: 581px;
+  left: 213px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.page1-emailaddress {
+  top: 561px;
+  left: 217px;
+  width: 244px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page1-text19 {
+  top: -25px;
+  left: 128px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-text21 {
+  top: 4px;
+  color: rgba(0, 0, 0, 1);
+  right: -41px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-rectangle6 {
+  top: -37px;
+  left: 41px;
+  width: 69px;
+  height: 67px;
+  position: absolute;
+  border-radius: 15px;
+}
+.page1-icon1 {
+  top: -23px;
+  left: 50px;
+  width: 50px;
+  height: 40px;
+  position: absolute;
+}
+.page1-contactfillupfull {
+  top: 311px;
+  left: 812px;
+  width: 357px;
+  height: 464px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page1-fillupformcontact {
+  top: 0px;
+  left: 0px;
+  width: 357px;
+  height: 421px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page1-rectangle2 {
+  top: -18px;
+  right: -41px;
+  width: 357px;
+  height: 56px;
+  position: absolute;
+  border-radius: 24px;
+}
+.page1-rectangle3 {
+  top: 62px;
+  right: -41px;
+  width: 357px;
+  height: 56px;
+  position: absolute;
+  border-radius: 24px;
+}
+.page1-rectangle41 {
+  right: -41px;
+  width: 357px;
+  bottom: 37px;
+  height: 242px;
+  position: absolute;
+  border-radius: 24px;
+}
+.page1-text23 {
+  top: -37px;
+  left: 56px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-text25 {
+  top: 43px;
+  left: 56px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-text27 {
+  top: 123px;
+  left: 56px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-submitbutton {
+  right: -41px;
+  width: 82px;
+  bottom: 37px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(81, 150, 53, 1);
+}
+.page1-text29 {
+  top: 5px;
+  left: 10px;
+  color: rgba(255, 255, 255, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-footer {
+  top: 972px;
+  left: 0px;
+  width: 1480px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(214, 222, 241, 1);
+}
+.page1-text31 {
+  top: 14px;
+  left: 520px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1-logo {
+  top: 31px;
+  left: 31px;
+  width: 85px;
+  height: 53px;
+  position: absolute;
+}
+.page1-line1 {
+  top: 234px;
+  left: 720px;
+  width: 575px;
+  height: 1px;
+  position: absolute;
+}
